@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-09-06T15:17:43.053+02:00
+  initializedAtString: 2021-09-06T14:18:35.077+02:00
+  log:
+  - commitID: 9b704d9dd42363e5fb706061f3c9dab89fde76b0
+    mergeA: 
+    mergeB: 
+    authorName: 50ME0N3
+    authorEmail: 61466492+50ME0N3@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Create .gitignore
+    description: 
+    timeString: 2021-09-06T15:14:49.000+02:00
+    commitTimeString: 2021-09-06T15:14:49.000+02:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\S0ME0NE\Desktop\jeuxDeCombat2D\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: d5c8bb8e468af85c677ef41831b71065ff44fa98
+    mergeA: 
+    mergeB: 
+    authorName: 50ME0N3
+    authorEmail: 61466492+50ME0N3@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Delete StreetFighter/Assets/Nature_pixel_art_assets/Nature_tiles_01
+      directory
+    description: 
+    timeString: 2021-09-06T15:11:01.000+02:00
+    commitTimeString: 2021-09-06T15:11:01.000+02:00
+    changes:
+    - path: StreetFighter\Assets\Nature_pixel_art_assets\Nature_tiles_01\nature_environment_01_33.asset
+      fullPath: C:\Users\S0ME0NE\Desktop\jeuxDeCombat2D\StreetFighter\Assets\Nature_pixel_art_assets\Nature_tiles_01\nature_environment_01_33.asset
+      projectPath: Assets\Nature_pixel_art_assets\Nature_tiles_01\nature_environment_01_33.asset
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: StreetFighter\Assets\Nature_pixel_art_assets\Nature_tiles_01\nature_environment_01_33.asset.meta
+      fullPath: C:\Users\S0ME0NE\Desktop\jeuxDeCombat2D\StreetFighter\Assets\Nature_pixel_art_assets\Nature_tiles_01\nature_environment_01_33.asset.meta
+      projectPath: Assets\Nature_pixel_art_assets\Nature_tiles_01\nature_environment_01_33.asset.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 42bca4beb768b729b7823f079572bc75e5524316
+    mergeA: 
+    mergeB: 
+    authorName: 50ME0N3
+    authorEmail: antoine.dvt@eduge.ch
+    commitEmail: antoine.dvt@eduge.ch
+    commitName: 50ME0N3
+    summary: petite map
+    description: 
+    timeString: 2021-09-06T15:06:38.000+02:00
+    commitTimeString: 2021-09-06T15:06:38.000+02:00
+    changes:
+    - path: StreetFighter\Assets\Nature_pixel_art_assets\Nature_tiles_01\nature_environment_01_33.asset
+      fullPath: C:\Users\S0ME0NE\Desktop\jeuxDeCombat2D\StreetFighter\Assets\Nature_pixel_art_assets\Nature_tiles_01\nature_environment_01_33.asset
+      projectPath: Assets\Nature_pixel_art_assets\Nature_tiles_01\nature_environment_01_33.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: StreetFighter\Assets\Nature_pixel_art_assets\Nature_tiles_01\nature_environment_01_33.asset.meta
+      fullPath: C:\Users\S0ME0NE\Desktop\jeuxDeCombat2D\StreetFighter\Assets\Nature_pixel_art_assets\Nature_tiles_01\nature_environment_01_33.asset.meta
+      projectPath: Assets\Nature_pixel_art_assets\Nature_tiles_01\nature_environment_01_33.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: f273c8dbecbfb874e9caba6884253221c58256d4
+    mergeA: 
+    mergeB: 
+    authorName: 50ME0N3
+    authorEmail: 61466492+50ME0N3@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2021-09-06T08:25:43.000+02:00
+    commitTimeString: 2021-09-06T08:25:43.000+02:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\S0ME0NE\Desktop\jeuxDeCombat2D\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
